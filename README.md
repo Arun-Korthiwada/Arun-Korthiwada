@@ -40,7 +40,7 @@ I'm a seasoned **Quality Assurance Lead** with over 9 years of experience in bot
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-link)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arun-kumar-korthiwada/)  
 📧 arun.korthiwada@hotmail.com  
 📞 +91-9959516516
 
